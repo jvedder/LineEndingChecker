@@ -1,0 +1,15 @@
+# Output Folders and Files #
+/bin/
+/testbin/
+/dist/
+/build/
+sysProps.xml
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# SVN from Google Code #
+.svn/
